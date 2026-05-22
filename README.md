@@ -11,7 +11,6 @@ The project is ideal for beginners learning:
 - Library management logic
 
 ---
-
 # 🚀 Features
 
 ## 📖 Book Management
