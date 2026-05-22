@@ -181,9 +181,8 @@ This project is open-source and available under the MIT License.
 
 # 👨‍💻 Author
 
-Developed by **Your Name**
+Developed by:Tilahun Berga,Yoseph shibiru,Sagni Miresa,Tsarkan Desalegn,Zemen Solomon
 
-GitHub: `https://github.com/your-username`
 
 ---
 
